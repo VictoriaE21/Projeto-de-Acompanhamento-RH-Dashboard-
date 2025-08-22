@@ -15,4 +15,4 @@ Esse projeto se trata de uma dashboard descritiva referente ao RH de uma empresa
 - Funcionários por gênero
 - Média de idade por Gênero
 
-
+**Fonte da Base de Dados:** Curso POWER BI & SQLSERVER - Professor Danilo Yto
